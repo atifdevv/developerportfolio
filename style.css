@@ -409,7 +409,7 @@ background: black;
 
 
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 380px) {
 
   .hero-section{
     flex-direction: column;
@@ -473,7 +473,7 @@ background: black;
 }
 
 .image-container{
-    width: 18rem;
+    width: 16rem;
 }
 .hamburger{
     display: block;
