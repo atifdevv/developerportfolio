@@ -270,7 +270,7 @@ transition: .3s ease-in-out;
     aspect-ratio: 1;
     border-radius: 50%;
     border: .4rem solid var(--blue-clr);
-    background-image: url('igm.png');
+    background-image: url('profile.jpg');
     background-position: bottom;
     background-size: 100%;
     background-repeat: no-repeat;
@@ -514,5 +514,6 @@ background: black;
     }
 
 }
+
 
 
