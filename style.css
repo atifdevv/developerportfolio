@@ -19,7 +19,7 @@
 
 .main-wrapper{
  min-height: 100vh;
- background: gray; 
+    background-color: lightgreen;
  overflow: hidden;
  scroll-behavior: smooth;
 
@@ -457,7 +457,7 @@ background: black;
     background: var(--blue-clr);
     position: absolute;
     justify-content: center;
-    top: -100%;
+    top: -110%;
     left: 0;
     right: 0;
     height: 96vh;
@@ -514,6 +514,5 @@ background: black;
     }
 
 }
-
 
 
