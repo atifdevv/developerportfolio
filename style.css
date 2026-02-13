@@ -19,7 +19,7 @@
 
 .main-wrapper{
  min-height: 100vh;
-    background-color: lightgreen;
+ background: rgba(190, 253, 95, 0.9); 
  overflow: hidden;
  scroll-behavior: smooth;
 
@@ -157,7 +157,7 @@ h1{
 }
 
 p{
-    color: var(--gray-clr);
+    color: var(--white-clr);
      max-width: 600px;
      font-size: 1rem;
      line-height: 1.8rem;
