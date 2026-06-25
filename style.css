@@ -19,7 +19,7 @@
 
 .main-wrapper{
  min-height: 100vh;
- background: rgba(190, 253, 95, 0.9); 
+ background: var(--black-bg); 
  overflow: hidden;
  scroll-behavior: smooth;
 
